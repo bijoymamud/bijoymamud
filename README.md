@@ -42,7 +42,7 @@ I am actively engaged in a process of continuous learning and research, while al
 
 ### Badges
 
-<b>My GitHub Stats</b>
+### My GitHub Stats
 
 <a href="http://www.github.com/bijoymamud"><img src="https://github-readme-stats.vercel.app/api?username=bijoymamud&show_icons=true&hide=&count_private=true&title_color=14b8a6&text_color=ffffff&icon_color=3382ed&bg_color=000000&hide_border=true&show_icons=true" alt="bijoymamud's GitHub stats" /></a>
 
