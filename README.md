@@ -1,4 +1,5 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Al Mamud Bijoy
+Whassss Up![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
+Welcome from Al Mamud Bijoy
 ======================================================================================================================================
 
 Front-End Developer | Marn Stack Developer | UX/UI Designer
