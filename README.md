@@ -2,7 +2,7 @@ Whassss Up![](https://user-images.githubusercontent.com/18350557/176309783-07859
 Welcome from Al Mamud Bijoy
 ======================================================================================================================================
 
-Front-End Developer | Marn Stack Developer | UX/UI Designer
+Front-End Developer | Marn Stack Developer 
 -----------------------------------------------------------
 
 I am actively engaged in a process of continuous learning and research, while also serving as a web developer.
