@@ -1,15 +1,14 @@
-# 🚀 Igor Wnek
+# 🚀 Al Mamud Bijoy
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=00E0E5&random=false&width=435&lines=%F0%9F%92%A1+Innovate.;%E2%9C%A8+Inspire.;%F0%9F%94%A5+Ignite." alt="Typing SVG" /></a>
 
 **`Digital Craftsman & Educator`**
 
 * 🌍 I'm based in Poland 🇵🇱
-* ✉️ You can contact me at [igor.wnek@ikcode.dev](mailto:igor.wnek@ikcode.dev)
-* ❓ Ask me a question about programming at [my Instagram](https://www.instagram.com/ikcode_igorwnek)
-* 🧠 Languages I learn or master: JavaScript, TypeScript, Rust
-* 🤔 My other software related interests: serverless, 🧩 microservices, 🧪 TDD, 🏗️ DDD, 🤖 AI & LLMs
-* ⚡ PlayStation player
+* ✉️ You can contact me at [igor.wnek@ikcode.dev](mailto:bijoymamud.09@gmail.com)
+
+* 🧠 Languages I learn or master: Redux, TypeScript
+
 
 ### 🔗 Connect With Me
 
