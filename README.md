@@ -5,9 +5,9 @@
 **`Digital Craftsman & Educator`**
 
 * 🌍 I'm based in Poland 🇵🇱
-* ✉️ You can contact me at [igor.wnek@ikcode.dev](mailto:bijoymamud.09@gmail.com)
+* ✉️ You can contact me at [bijoymamud.09@gmail.com](mailto:bijoymamud.09@gmail.com)
 
-* 🧠 Languages I learn or master: Redux, TypeScript
+* 🧠 Languages Learning: Redux, TypeScript
 
 
 ### 🔗 Connect With Me
