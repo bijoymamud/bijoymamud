@@ -9,14 +9,9 @@
 <br/>
 
 <div align="left">
- 
- 🔭 I’m currently working on **a marketplace**
- 
- 🌱 I’m currently learning **Docker, Supabase, AWS**
+👋 Hi there! I'm [Your Name], a passionate web developer with a strong background in computer science engineering. I love creating beautiful and functional web applications using modern technologies like React and Tailwind CSS. My journey in web development started with a spark of curiosity and has grown into a full-fledged passion. I'm constantly exploring new tools and techniques to improve my craft and deliver the best user experiences.
 
-💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/salesp07/salesp07/issues)**
-
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+When I'm not coding, you can find me refining my desk setup to fuel my creativity or diving into the latest tech trends. Let's build something amazing together!
 
  </div>
  
