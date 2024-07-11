@@ -27,7 +27,7 @@ When I'm not coding, you can find me refining my desk setup to fuel my creativit
 
  <hr/>
  
-<h3 align="center">I'm Al Mamud Bijoy, a passionate web developer with a strong background in computer science engineering. I love creating beautiful and functional web applications using modern technologies like React and Tailwind CSS. My journey in web development started with a spark of curiosity and has grown into a full-fledged passion. I'm constantly exploring new tools and techniques to improve my craft and deliver the best user experiences. When I'm not coding, you can find me refining my desk setup to fuel my creativity or diving into the latest tech trends. Let's build something amazing together!</h3>
+
 
 - 🌱 I’m currently learning **Redux**
 
