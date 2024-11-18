@@ -11,11 +11,11 @@
 
 - 🌱 I’m currently learning **Redux**
 
-- 👨‍💻 All of my projects are available at [https://bijoybm.netlify.app/](https://bijoybm.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://almamud4u.vercel.app/](https://almamud4u.vercel.app/)
 
 - 📫 How to reach me **bijoymamud.09@gmail.com**
 
-- 📄 Know about my experiences [Resume]([https://drive.google.com/file/d/1O4xnaXeYExZiqhqO20KQLL5WngSIWgUM/view](https://drive.google.com/file/d/1HpEGKnuhYcPGo_d2AaMpGwy3HTXO30hQ/view?usp=sharing))
+- 📄 Know about my experiences [https://drive.google.com/file/d/1HpEGKnuhYcPGo_d2AaMpGwy3HTXO30hQ/view?usp=sharing]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
