@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **bijoymamud.09@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1O4xnaXeYExZiqhqO20KQLL5WngSIWgUM/view](https://drive.google.com/file/d/1O4xnaXeYExZiqhqO20KQLL5WngSIWgUM/view)
+- 📄 Know about my experiences [Resume]([https://drive.google.com/file/d/1O4xnaXeYExZiqhqO20KQLL5WngSIWgUM/view](https://drive.google.com/file/d/1HpEGKnuhYcPGo_d2AaMpGwy3HTXO30hQ/view?usp=sharing))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
