@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Spark Tech**
+- 🔭 I’m currently working on **Joinn Venture AI**
 
-- 🌱 I’m currently learning **NextJs**
+- 🌱 I’m currently learning **TypeScript**
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://almamud4u.vercel.app/)
 
