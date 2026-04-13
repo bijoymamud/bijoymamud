@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **TypeScript**
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://almamud4u.vercel.app/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://almamudbijoy-portfolio.vercel.app/)
 
 - 📫 How to reach me **bijoymamud.09@gmail.com**
 
