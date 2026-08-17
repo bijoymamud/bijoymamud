@@ -1,33 +1,130 @@
-<h1 align="center">Hi 👋, I'm Al Mamud Bijoy</h1>
-<h3 align="center">I'm Al Mamud Bijoy, a passionate web developer with a strong background in computer science engineering. I love creating beautiful and functional web applications using modern technologies like React and Tailwind CSS. My journey in web development started with a spark of curiosity and has grown into a full-fledged passion. I'm constantly exploring new tools and techniques to improve my craft and deliver the best user experiences. When I'm not coding, you can find me refining my desk setup to fuel my creativity or diving into the latest tech trends. Let's build something amazing together!</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bijoymamud&label=Profile%20views&color=0e75b6&style=flat" alt="bijoymamud" /> </p>
+<!-- Typing banner -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=4500&pause=2500&color=777777&center=true&vCenter=true&width=620&lines=Crafting+web+experiences+until+the+interface+feels+effortless." alt="tagline" />
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bijoymamud" alt="bijoymamud" /></a> </p>
+</div>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+```
+  Al Mamud Bijoy
+  ---------------------------------------------------------
+  Role       ->  Web Developer @ Betopia Limited
+  Domain     ->  Frontend | Web Apps | UI Engineering | Full Stack
+  Stack      ->  React | Tailwind CSS | JavaScript | TypeScript | Node.js
+  Currently  ->  Learning TypeScript
+  Status     ->  building clean, useful web experiences.
+```
 
-- 🔭 I’m currently working on **Betopia Limited**
+---
 
-- 🌱 I’m currently learning **TypeScript**
+### How I think
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://almamudbijoy-portfolio.vercel.app/)
+I like building interfaces that feel simple on the surface and solid underneath. My work usually starts with the same question: what would make this easier, clearer, and more useful for the person using it?
 
-- 📫 How to reach me **bijoymamud.09@gmail.com**
+I come from a computer science engineering background, and web development is where that curiosity turned into craft. React and Tailwind CSS are my everyday tools, but I keep pushing into TypeScript, backend fundamentals, and better product thinking so the whole experience holds together.
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1HpEGKnuhYcPGo_d2AaMpGwy3HTXO30hQ/view?usp=sharing)
+When I am not coding, I am usually refining my setup, exploring new tools, or following the kind of tech ideas that make me want to open the editor again.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/almamudbijoy09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="almamudbijoy09" height="30" width="40" /></a>
-<a href="https://fb.com/ip.bjoy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ip.bjoy" height="30" width="40" /></a>
+---
+
+### What I'm working with
+
+<div align="center">
+<img src="./neural_network.svg" width="460" alt="frontend developer workspace"/>
+</div>
+
+<table>
+  <tr>
+    <td><b>Frontend</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/HTML5-000000?style=flat-square&logo=html5&logoColor=white" />
+      <img src="https://img.shields.io/badge/CSS3-000000?style=flat-square&logo=css3&logoColor=white" />
+      <img src="https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=white" />
+      <img src="https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript&logoColor=white" />
+      <img src="https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=white" />
+      <img src="https://img.shields.io/badge/Redux-000000?style=flat-square&logo=redux&logoColor=white" />
+      <img src="https://img.shields.io/badge/Tailwind_CSS-000000?style=flat-square&logo=tailwindcss&logoColor=white" />
+      <img src="https://img.shields.io/badge/Bootstrap-000000?style=flat-square&logo=bootstrap&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Backend</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Node.js-000000?style=flat-square&logo=nodedotjs&logoColor=white" />
+      <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
+      <img src="https://img.shields.io/badge/PHP-000000?style=flat-square&logo=php&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Data / Cloud</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/MongoDB-000000?style=flat-square&logo=mongodb&logoColor=white" />
+      <img src="https://img.shields.io/badge/Firebase-000000?style=flat-square&logo=firebase&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Design / Tools</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Figma-000000?style=flat-square&logo=figma&logoColor=white" />
+      <img src="https://img.shields.io/badge/Illustrator-000000?style=flat-square&logo=adobeillustrator&logoColor=white" />
+      <img src="https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Foundations</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/C-000000?style=flat-square&logo=c&logoColor=white" />
+      <img src="https://img.shields.io/badge/C++-000000?style=flat-square&logo=cplusplus&logoColor=white" />
+    </td>
+  </tr>
+</table>
+
+---
+
+### Currently building
+
+```
+  [WORK]     Web products at Betopia Limited.
+  [LEARNING] TypeScript and stronger frontend architecture.
+  [FOCUS]    React, Tailwind CSS, responsive UI, and useful product flows.
+  [NEXT]     More polished full-stack projects for the portfolio.
+```
+
+---
+
+### Activity
+
+<div align="center">
+<img src="./hammer_animation.svg" alt="contribution hammer animation"/>
+
+</div>
+
+---
+
+### Find me
+
+<p align="center">
+  <a href="https://almamudbijoy-portfolio.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/almamudbijoy09/">
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://www.facebook.com/ip.bjoy">
+    <img src="https://img.shields.io/badge/Facebook-000000?style=flat-square&logo=facebook&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://drive.google.com/file/d/1HpEGKnuhYcPGo_d2AaMpGwy3HTXO30hQ/view?usp=sharing">
+    <img src="https://img.shields.io/badge/Resume-000000?style=flat-square&logo=googledrive&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="mailto:bijoymamud.09@gmail.com">
+    <img src="https://img.shields.io/badge/Email-000000?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bijoymamud&show_icons=true&locale=en&layout=compact" alt="bijoymamud" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bijoymamud&show_icons=true&locale=en" alt="bijoymamud" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bijoymamud&" alt="bijoymamud" /></p>
+<div align="center">
+<sub>open to collaborations on React, Tailwind CSS, and practical web products</sub>
+</div>
