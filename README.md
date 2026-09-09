@@ -9,7 +9,7 @@
   Al Mamud Bijoy
   ---------------------------------------------------------
   Role       ->  Web Developer @ Betopia Limited
-  Domain     ->  Frontend | Web Apps | UI Engineering | Full Stack
+  Domain     ->  Frontend | Web Apps | Full Stack
   Stack      ->  React | Tailwind CSS | JavaScript | TypeScript | Node.js
   Currently  ->  Learning TypeScript
   Status     ->  building clean, useful web experiences.
