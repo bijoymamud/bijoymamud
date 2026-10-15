@@ -84,7 +84,7 @@ When I am not coding, I am usually refining my setup, exploring new tools, or fo
 ### Currently building
 
 ```
-  [WORK]     Web products at Betopia Limited.
+  [WORK]     Web products at Synth-Ko.
   [LEARNING] TypeScript and stronger frontend architecture.
   [FOCUS]    React, Tailwind CSS, responsive UI, and useful product flows.
   [NEXT]     More polished full-stack projects for the portfolio.
