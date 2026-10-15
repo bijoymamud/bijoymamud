@@ -8,7 +8,7 @@
 ```
   Al Mamud Bijoy
   ---------------------------------------------------------
-  Role       ->  Web Developer @ Betopia Limited
+  Role       ->  Web Developer @ Synth-Ko
   Domain     ->  Frontend | Web Apps | Full Stack
   Stack      ->  React | Tailwind CSS | JavaScript | TypeScript | Node.js
   Currently  ->  Learning TypeScript
